@@ -23,17 +23,18 @@ emotion_chatbot/
 ├── app.py                         
 ├── requirements.txt                
 ├── model/
+
 │   ├── __init__.py
 │   ├── emotion_model.py            
 │   └── response_generator.py       
-│
+
 ├── utils/
 │   ├── __init__.py
 │   └── preprocess.py              
-│
+
 ├── data/
 │   └── emotions_dataset.csv       
-│
+
 └── README.md                      
 
 Setup Instructions
