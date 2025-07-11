@@ -25,20 +25,15 @@ emotion_chatbot/
 ├── model/
 
   ├── __init__.py
-
   ├── emotion_model.py 
-
   └── response_generator.py       
 
 ├── utils/
-
-├── __init__.py
-
-  └── preprocess.py              
+ ├── __init__.py
+ └── preprocess.py              
 
 ├── data/
-
-  └── emotions_dataset.csv       
+ └── emotions_dataset.csv       
 
 └── README.md                      
 
@@ -46,7 +41,7 @@ Setup Instructions
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/emotion-chatbot.git
+git clone https://github.com/AmbilyVelayudhan/emotion-chatbot.git
 cd emotion-chatbot
 
 2. Create a virtual environment:
