@@ -18,31 +18,32 @@ To build an intelligent chatbot capable of:
 
 Project Structure
 
-emotion_chatbot/
+Emotional-Sentiment-Analysis-and-Adaptive-Response-System/
 
-├── app.py                         
+├── app.py                          
 ├── requirements.txt                
+│
 ├── model/
-
-  ├── __init__.py
-  ├── emotion_model.py 
-  └── response_generator.py       
-
+│   ├── __init__.py
+│   ├── emotion_model.py            
+│   └── response_generator.py      
+│
 ├── utils/
- ├── __init__.py
- └── preprocess.py              
-
+│   ├── __init__.py
+│   └── preprocess.py              
+│
 ├── data/
- └── emotions_dataset.csv       
-
-└── README.md                      
+│   └── emotions_dataset.csv        
+│
+└── README.md                       
+                    
 
 Setup Instructions
 
 1. Clone the repository:
 
-git clone https://github.com/AmbilyVelayudhan/emotion-chatbot.git
-cd emotion-chatbot
+git clone https://github.com/AmbilyVelayudhan/Emotional-Sentiment-Analysis-and-Adaptive-Response-System.git
+cd Emotional-Sentiment-Analysis-and-Adaptive-Response-System
 
 2. Create a virtual environment:
 
