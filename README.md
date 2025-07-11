@@ -19,7 +19,7 @@ To build an intelligent chatbot capable of:
 Project Structure
 
 Emotional-Sentiment-Analysis-and-Adaptive-Response-System/
-
+|
 ├── app.py                          
 ├── requirements.txt                
 │
